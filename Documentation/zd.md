@@ -419,3 +419,31 @@ The last of the three ZDSR keys is the "INSERT" key. It is located to the left o
 
 The point of this exercise is to make yourself comfortable with all three ZDSR keys. This exercise will be simple and easy, but it will let you see which of the three available ZDSR keys is the best for you.
 Press the "ZDSR+Z" key combination (substituting "ZDSR" with each of the ZDSR keys), then press "ESCAPE" and repeat the process for the remaining keys.
+
+### Understanding the "ZDSR menu"
+
+Before diving into all the details of the thing, first we need to answer the question: "What is the "ZDSR Menu"?" Imagine a central hub, from where all the commands can be executed. It's very much like a control panel of a washing machine or a dishwasher, where the series of buttons allows you to execute the devices' most used features. The principle works in the exactly same manner here.
+In order to open the "ZDSR menu" you need to press the "ZDSR+Z" key combination. Remember to substitute "ZDSR" with any of the three available ZDSR keys. After doing that you will hear the following prompt:
+
+> ZDSR Settings(S)... 
+
+This prompt means that your cursor is  on the "ZDSR Settings..." option, and its shortcut key is the letter "S". Remember that thought flow when analyzing further menu options, as it will be useful not only in ZDSR itself, but also in other software applications we will explore in this book or the ones you will use by yourself.
+Menus have some nomenclature concerning them, but for now we need to learn only about one term. This term is "popup menu". A "popup menu" is nothing morre than a "child" of a main menu, or a "branch" of a tree. In our computer world it means that there's a new road in place of such menu, and so we can press the "RIGHT ARROW" to expand such menu. As a trivia its worth remembering that a "popup menu" is sometimes called a "submenu", so it's something smaller, branching of something bigger. If you would want to go back from a submenu though, you can use either the "LEFT ARROW" or you can "ESCAPE" from it.
+Even though the "ZDSR menu" has some submenus (three, to be exact), in this section we will not cover them, as options behind them are hidden for a reason. Don't worry though, we will be going back to the "ZDSR Menu" probably throughout the whole remainder of this book. This section is here to make you understand the concept well, as well as to create a little map in your mind. We will circle important points of interests on it with time, but for now we will just mark some roads, so you know where to go and how to go back when lost.
+In order to navigate the menu, you use the "UP" and "DOWN" arrow keys, just like "NORTH" and "SOUTH" on the compass. If you encounter a submenu, you can expand it with the "RIGHT ARROW", or collapse it with the "LEFT ARROW", just like east and west on the compass. The below table describes all the top-level options of the "ZDSR Menu". As said above, contents of the submenus will remain hidden for now, yet you can explore by yourself if you so wish. Remember not to press the "ENTER" key on options you do not understand, as you can really break your working environment. Be careful!!!
+
+| Option name | Hotkey | Option type | Option description |
+| ----- | ----- | ----- | ----- |
+| ZDSR Settings... | "S" | Menu item | Opens the panel where all of the ZDSR's settings can be tweaked to your liking. |
+| Voice Scheme... | "V" | Menu item | Provides you with a panel where you can freely adjust how ZDSR speaks to you. |
+| Daily attendance | "Q" | Menu item | Signs you in to the "Zhengdu Network". |
+| Login | "L" | Menu item | Allows you to login to the "Zhengdu Network". |
+| ZD Net | "Z" | Menu item | Opens the "Zhengdu Network". |
+| ZD Notice... | "N" | Menu item | Displays all recent announcements regarding the Zhengdu Screenreader. |
+| Welcome window... | "W" | Menu item | Opens the "Welcome window". |
+| Different from public welfare edition | None | Menu item | Shows all the differences between various software editions. |
+| Tools | "T" | Submenu | Provides you with various advanced tools used to aid you in working with ZDSR. |
+| Quick Switch | "F" | Submenu | Provides you with the most frequently changed settings so you have an easy access to them. |
+| Help | "H" | Submenu | Allows you to get help as well as various technical information about the Zhengdu Screenreader. |
+| Exit | "X" | Menu item | Exits ZDSR. |
+: A description of the ZDSR menu.
