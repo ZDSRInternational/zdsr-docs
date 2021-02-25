@@ -388,12 +388,15 @@ The first key you will encounter when navigating up from the "UP ARROW" key is t
 When going one key right from the "END" key you will encounter the "PG DOWN (PAGE DOWN)" key. This key in turn is used to go one page down (as the name implies) when on a text box, or it can skip twenty lines down when on a list control.
 Going up from "PAGE DOWN" you have the "PG UP (PAGE UP)" key. As the name implies, it is used to go one page up when on a textbox, or it can skip twenty items up when on a list control.
 And finally when going left from "PG UP" you will meet the "HOME" key. This key is used to go to the beginning of a current line when on a textbox or it can skip to the very beginning of a list when on a list control.
+It's not all though. If you press the "HOME" key together with the "LCTRL" key it will go to the very beginning of a document that you are currently reading.
+And so when you press the "END" key together with the "LCTRL" key it will go to the very end of the document you are currently reading.
 In case of problems with remembering these key combinations, please learn the following:
 
 - A home can be associated with the beginning, so the "HOME" key goest o the first character of a current line or to the beginning of a list.
 - The name of the "END" key is very appropriate,. This key goes to the last character of the current line, or to the end of a list when in a list control.
 - The "PG UP" key, called also the "PAGE UP" key is used to go one page up when on a text box. When in a list control though, it is used to skip twenty items up.
 - The "PG DOWN" key, called also the "PAGE DOWN" key is used to go one page down when on a text box. When in a list control though, it is used to skip twenty items down.
+- Both "HOME" and "END" keys, when pressed together with the "LCTRL" key will go either to the beginning or the end of the document I am currently reading.
 
 #### Practise the basic keyboard navigation
 
@@ -401,3 +404,18 @@ Sections like this will give you some basic exercises in order to facilitate the
 This first exercise will be concerning launching the Zhengdu Screenreader from the desktop.
 A desktop is the area that is first visible just when your computer starts up. If you have installed ZDSR with default options, an icon for it has been placed on it. If you wish to open the desktop, press the "LWIN+D" key combination.
 Tip: The desktop is a special case of a control that is called a grid. A grid in this case means that you can move in all four directions, and so locating the icon you want might not be as easy. is there another way I can open ZDSR from the desktop?
+
+### Understanding the "ZDSR Key"
+
+The "ZDSR Key" is a very important concept to master if you want to master the screenreader as well as possible. The "ZDSR key" can be thought of as a master key for ZDSR, meaning that most keys pressed with conjunction with this key will control a given ZDSR behavior.
+This explanation is a bit simplified, but for now it is enough to get you up and running.
+By default, ZDSR has three keys assigned for itself. You might be wondering: "Why three keys have to be assigned for the screenreader? Do I really have to learn all of them?"
+The answer to this question is rather simple and fortunately for you, while helpful, learning all three ZDSR keys is not mandatory. They are here for your convenience. If you need to work with just one hand you might be using the "CAPSLOCK" key as the ZDSR key, but if you need a more comfortable position you can always go for the "NUMPAD ZERO" key. With that out of the way, let's see what keys are assigned for ZDSR.
+First of all, the "capslock" key: in most of cases it is the third key when going down from the very top left corner of the keyboard. By default it is used to make it so that capital letters don't have to be written by holding the "SHIFT" key/. It does not lose this function when being the "ZDSR key". When you press "CAPSLOCK" with any key which creates a correct ZDSR command, then it is intercepted and handled by the screenreader.
+Secondly, the "NUMPAD ZERO" key: it is generally the third key when going left from the very bottom right of the keyboard. Please keep in mind that "NUMLOCK" has to be off for the key to behave as a ZDSR key. If the "NUMLOCK" is on instead, this key will just type the number 0.
+The last of the three ZDSR keys is the "INSERT" key. It is located to the left of the "HOME" key so it's the top left key of the little rectangular block located above the arrow keys. This key has no other special function in Windows, and so it is always reserved for ZDSR.
+
+#### Practising usage of the "ZDSR key"
+
+The point of this exercise is to make yourself comfortable with all three ZDSR keys. This exercise will be simple and easy, but it will let you see which of the three available ZDSR keys is the best for you.
+Press the "ZDSR+Z" key combination (substituting "ZDSR" with each of the ZDSR keys), then press "ESCAPE" and repeat the process for the remaining keys.
