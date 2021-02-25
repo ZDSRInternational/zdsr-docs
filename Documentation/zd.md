@@ -351,6 +351,7 @@ Sections like this summarize all new keyboard shortcuts that we have learned thr
 | LCTRL+LALT+I | Starts ZDSR Youth Edition or ZDSR free edition. |
 | ENTER | Activates elements on the desktop or activates search while in the "Start menu". |
 | LWIN | Opens the "Start menu". |
+| LWIN+D | Opens the "Desktop". |
  : Keyboard shortcuts used in Chapter 2.
 
 ## ZDSR basics
@@ -381,3 +382,22 @@ In case of problems with remembering these key combinations, please learn the fo
 - Characters are horizontal, so I use the "LEFT" and "RIGHT" arrows to move between them.
 - A paragraph consists of many lines, so I use the "LCTRL" key together with either the "UP" or "DOWN" arrow to move between them.
 - A word consists of many characters, so I use the "LCTRL" key together with either the "LEFT" or "RIGHT" arrow to move between them.
+
+There is only one group of keys we need to master for now. These are the "HOME", "END", "PG UP" and "PG DOWN" keys located in a rectangular block of the keyboard, straight up from the "UP ARROW" key.
+The first key you will encounter when navigating up from the "UP ARROW" key is the "END" key. It either goes to the last character in a current line, when pressed on a textbox, or to the end of a list, when used in a list control.
+When going one key right from the "END" key you will encounter the "PG DOWN (PAGE DOWN)" key. This key in turn is used to go one page down (as the name implies) when on a text box, or it can skip twenty lines down when on a list control.
+Going up from "PAGE DOWN" you have the "PG UP (PAGE UP)" key. As the name implies, it is used to go one page up when on a textbox, or it can skip twenty items up when on a list control.
+And finally when going left from "PG UP" you will meet the "HOME" key. This key is used to go to the beginning of a current line when on a textbox or it can skip to the very beginning of a list when on a list control.
+In case of problems with remembering these key combinations, please learn the following:
+
+- A home can be associated with the beginning, so the "HOME" key goest o the first character of a current line or to the beginning of a list.
+- The name of the "END" key is very appropriate,. This key goes to the last character of the current line, or to the end of a list when in a list control.
+- The "PG UP" key, called also the "PAGE UP" key is used to go one page up when on a text box. When in a list control though, it is used to skip twenty items up.
+- The "PG DOWN" key, called also the "PAGE DOWN" key is used to go one page down when on a text box. When in a list control though, it is used to skip twenty items down.
+
+#### Practise the basic keyboard navigation
+
+Sections like this will give you some basic exercises in order to facilitate the knowledge you have gained when reading the previous section or chapter. Sometimes the exercises are simple and so answers for them are basically at your fingertips, and sometimes they might be a little bit harder requiring you to do your own research, either by going back in this book or reading any recommended material.
+This first exercise will be concerning launching the Zhengdu Screenreader from the desktop.
+A desktop is the area that is first visible just when your computer starts up. If you have installed ZDSR with default options, an icon for it has been placed on it. If you wish to open the desktop, press the "LWIN+D" key combination.
+Tip: The desktop is a special case of a control that is called a grid. A grid in this case means that you can move in all four directions, and so locating the icon you want might not be as easy. is there another way I can open ZDSR from the desktop?
