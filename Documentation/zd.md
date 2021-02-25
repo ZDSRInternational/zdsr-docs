@@ -26,8 +26,7 @@ Written by Nuno and Ollie.
 
 Copyright (®) 2021, no rights reserved.
 
-In case of any problem, suggestion, feature request and so on you are kindly
-welcome to write an E-Mail to [this E-Mail address.](mailto:nuno@zd.hk)
+In case of any problem, suggestion, feature request and so on please feel free to write an E-Mail to [this E-Mail address.](mailto:nuno@zd.hk)
 
 ### What is a screen reader?
 
@@ -54,7 +53,7 @@ return it provides over 80 languages to choose from.
 
 You might be wondering, if there are so many screen readers to choose from, why
 choose this one amongst its competition? The list of notable features is
-outlined below. Keep in mind though that this is just a little foretaste of what
+outlined below. Keep in mind though that this is just a little taste of what
 you are going to see later.
 
 - Speed of operation: blind people have slower access to computers than their
@@ -63,19 +62,18 @@ increasing the reaction speed by about 300% comparing to its competition. This
 makes ZDSR a perfect choice for people who need to access the information as
 fast as possible.
 
-- Ease of use: ZDSR is built on top of extremely logical and straightforward
-foundation, allowing people of all levels of computer knowledge master the
+- Ease of use: ZDSR is built on top of an extremely logical and straightforward
+foundation, allowing people of all levels of computer knowledge to master the
 product quickly and efficiently, making it possible to install it and start
 working immediately.
 
 - Advanced and well-thought functionality: ZDSR has all the functions you need,
 plus many more! With the built-in translation, Optical Character Recognition,
 automatic labeling of controls and plethora of many different features carrying
-out even a most advanced task is not a problem anymore.
+out even the most advanced tasks will no longer be a problem.
 
-- Great support for the professional software: Are you a writer, programmer, data
-analytist or an audio engineer? ZDSR has you covered. With its great support for
-the software like Visual Studio, Android Studio, Eclipse, MS Word, Excel, PowerPoint
+- Great support for professional software: Are you a writer, programmer, data
+analyst or an audio engineer? ZDSR has you covered. With its great support for software like Visual Studio, Android Studio, Eclipse, MS Word, Excel, PowerPoint
 and many more the software is not only read perfectly, but also starts being
 friendlier to the user with many additional keyboard commands.
 
@@ -129,8 +127,8 @@ edition is more suitable to use in schools, libraries, and other public
 institutions, as it can be running on multiple computers connected to the
 same master computer through the network.
 
-As you can see, there are many editions of the program meeting the different
-needs of the different users. Shall you need any help choosing a right edition
+As you can see, there are many editions of the program meeting different
+needs for different users. Shall you need any help choosing a right edition
 for your use case, do not hesitate to contact our support service via E-Mail,
 telling us what you use your computer for, so we can help you choose the right
 edition.
@@ -154,8 +152,8 @@ buying the software
 | Chromium engine support | No | Yes | Yes | Yes | Yes |
 | Notebook keyboard scheme support | No | Yes | Yes | Yes | Yes |
 | Support for the Optical Character Recognition | No | No | Yes | Yes | Yes |
-| Support for the advanced soundcard management | No | No | Yes | Yes | Yes |
-| Support for the "ZDSR Monitors" | No | No | No | No | Yes |
+| Support for  advanced soundcard management | No | No | Yes | Yes | Yes |
+| Support for "ZDSR Monitors" | No | No | No | No | Yes |
 | Support for "Zhengdu Landmarks" | No | No | Yes | Yes | Yes |
 | Support for "Zhengdu Labels" | No | No | Yes | Yes | Yes |
 | Support for advanced clipboard management | No | Yes | Yes | Yes | Yes |
@@ -164,8 +162,8 @@ buying the software
 | Support for the "Open TTS API" | No | Yes | Yes | Yes | Yes |
 | Support for "Audio Ducking" | No | No | Yes | Yes | Yes |
 | Support for Sonar, Reaper, Adobe Audition, and other sound design software | Basic | Basic | Basic | Full | Full |
-| Support for the "Element navigation" | No | No | Yes | Yes | Yes |
-| Support for highlighting current operation object | No | No | Yes | Yes | Yes |
+| Support for "Element navigation" | No | No | Yes | Yes | Yes |
+| Support for highlighting currently focused object | No | No | Yes | Yes | Yes |
 | Support for braille | No | No | Yes | Yes | Yes |
 | Support for the translation module | No | Yes | Yes | Yes | Yes |
 | Support for speech history | No | Yes | Yes | Yes | Yes |
@@ -176,7 +174,7 @@ buying the software
 | Support for Java programs | No | No | No | Yes | Yes |
 | Support for Scintilla-based software | No | No | No | Yes | Yes |
 | Support for controlling reading of passwords | No | Yes | Yes | Yes | Yes |
-| Support of automatic progress bar reading | No | Yes | Yes | Yes | Yes |
+| Support for automatic progress bar reading | No | Yes | Yes | Yes | Yes |
 | Support for intelligent word splitting | No | Yes | Yes | Yes | Yes |
 | Support for regular expressions in the dictionary | No | Yes | Yes | Yes | Yes |
  : Feature comparison
@@ -199,7 +197,7 @@ table contains all prices for all editions of the software.
 Please keep in mind that when buying the online edition, your license is digital
 and can be activated normally, while when buying the dongle version, you receive
 a physical product in a box, and since it arrives from China, you might pay
-additional import fees. Shall you need any assistance you are kindly welcome to
+additional import fees. Shall you need any assistance please feel free to
 contact our support service with all your questions or concerns.
 
 ## Getting started
@@ -276,7 +274,7 @@ The next screen is a bit more complicated though. It shows the list of additiona
 | Option name | Option description | Default value |
 | ----- | ----- | ----- |
 | Create desktop icon | Creates a desktop icon on your desktop. This makes it possible to quickly launch the program from the area which is visible easily. | Checked |
-| Auto start | Enabling this option makes it so that your computer starts speaking automatically right after its turned on. | Checked |
+| Start with Windows | Enabling this option makes it so that your computer starts speaking automatically right after its turned on. | Checked |
 | Read Windows logon window and security window | Controls whether ZDSR reads the secure screens of the Microsoft Windows operating system. If you don't know what this option is, leave it be. | Checked |
 | Install Skyvoice TTS engine | Installs the Skyvoice TTS engine, a high quality Chinese and english voice. | Checked |
 | Install IBM ViaVoice TTS Engine | Installs the English Eloquence synthesiser. | Checked |
@@ -286,12 +284,12 @@ The next screen is a bit more complicated though. It shows the list of additiona
 
 After making any special amendments to the component list, you can press "N" again to continue.
 The final screen of the installer shows the summary of all selected options. After review, press "I" to start the installation process.
-As with the "Express Installation" mode, a music will play and the installation process will be finished shortly after.
+As with the "Express Installation" mode, music  will start playing and the installation process will be finished shortly after.
 
 ### Activating ZDSR (Youth edition only)
 
-if you have purchased ZDSR Youth edition you need to activate it before using. Software activation is like checking in on an airport. You show your ticket, the guards check if everything is fine and you can pass further. Here it works very much like that: you launch the software, enter the key you have been provided and depending on its legimitimity you are "let through" or "turned down". Upon registering your purchase we have sent you an E-Mail containing very important data. Please save this E-Mail letter in a safe place, as disclosing the information in it will lead to lose all of your obtained rights. Please also note down the key (a long string of numbers), an a password consisting of four digits. Albeit it is possible to recover these data in an emergency, it is recommended that you keep them well-guarded.
-In order to activate your software you first need to run it. Running or "launching" a software means that it starts working either in background (you do not directly see the exact steps the program performs) or in foreground (you see and can control everything). ZDSR, being a screenreading application performs mainly in background. You don't see how it "talks" to your computer, how it retrieves the information and how it generates speech. You just hear the program speaking. With that out of the way, let's finally run the program. There are many ways to do so, depending on the options you have set in the installer. The most common options are listed below.
+if you have purchased ZDSR Youth edition you need to activate it before using. Software activation is like checking in at an airport. You show your ticket, the customs officers  check if everything is fine and you can pass further. Here it works very much like that: you launch the software, enter the key you have been provided and depending on its validity you are "let through" or "turned down". Upon registering your purchase we have sent you an E-Mail containing very important data. Please save this E-Mail letter in a safe place, as disclosing the information in it will lead to lose all of your obtained rights. Please also note down the key (a long string of numbers), an a password consisting of four digits. Albeit it is possible to recover these data in an emergency, it is recommended that you keep them well-guarded.
+In order to activate your software you first need to run it. Running or "launching" a software means that it starts working either in the background (you do not directly see the exact steps the program performs) or in the foreground (you see and can control everything). ZDSR, being a screenreading application performs mainly in the background. You don't see how it "talks" to your computer, how it retrieves the information and how it generates speech. You just hear the program speaking. With that out of the way, let's finally run the program. There are many ways to do so, depending on the options you have set in the installer. The most common options are listed below.
 
 - Press the shortcut "LCTRL+LALT+I" on your keyboard. This is the easiest method, as you do not have to memorize any positions. you just press these three keys together, wait a few seconds and the program is launched with a sound.
 -  Find the "Zhengdu Screenreader Youth Edition" on your desktop. If, for some reason you cannot or do not want to use the keyboard sequence, you can find the appropriate icon and execute it by pressing "ENTER". You can go to your desktop by pressing the "LWIN+D" key sequence. After doing so, press letters "Z, H, E" in quick succession and finally press enter.
@@ -313,12 +311,12 @@ Regardless of the method chosen, after listening to  the program's starting tone
 In case of an error message during the activation process, please check the following things.
 
 - Do you have an active Internet connection? ZDSR Youth edition requires an active Internet connection during the activation process. If you have just downloaded ZDSR then there's a very high chance your Internet connection is already working.
-- Have you entered the authorisation key well? Remember that when entering your authorisation data, you must be 100 percent accurate. Please check whether both your key and password are entered exactly as written in an E-Mail.
-- In case of any further problems, you are kindly welcome to contact the Zhengdu Screenreader Support service via E-Mail. It would help if you would include the error message displayed on the screen. You can either rewrite it or copy and paste it to an E-Mail. If you cannot copy and paste, don't worry. Just rewrite it from your memory.
+- Have you entered the authorisation key correctly? Remember that when entering your authorisation data, you must be 100 percent accurate. Please check whether both your key and password are entered exactly as written in an E-Mail.
+- In case of any further problems, please feel free to contact the Zhengdu Screenreader Support service via E-Mail. It would help if you would include the error message displayed on the screen. You can either rewrite it or copy and paste it to an E-Mail. If you cannot copy and paste, don't worry. Just rewrite it from your memory.
 
 ### First start
 
-It's high time you finally start learning how to use the Zhengdu Screenreader. If you have purchased the Youth Edition of the program, you have it activated and running by now, if you are using the commercial edition though, you need to plug in the received dongle to one of the USB ports of your desktop computer or laptop. Keep in mind that the device must be always plugged in to your USB port, otherwise ZDSR will exit after a while. Think about the dongle as both a key and a battery. When it is plugged in, ZDSR receives all the necessary information and so it works correctly. In any other case it "gets lost" and so it turns itself off. In order to start using  your software you first need to run it. Running or "launching" a software means that it starts working either in background (you do not directly see the exact steps the program performs) or in foreground (you see and can control everything). ZDSR, being a screenreading application performs mainly in background. You don't see how it "talks" to your computer, how it retrieves the information and how it generates speech. You just hear the program speaking. With that out of the way, let's finally run the program. There are many ways to do so, depending on the options you have set in the installer. The most common options are listed below.
+It's high time you finally start learning how to use the Zhengdu Screenreader. If you have purchased the Youth Edition of the program, you have it activated and running by now, if you are using the commercial edition though, you need to plug in the received dongle to one of the USB ports of your desktop computer or laptop. Keep in mind that the device must always be plugged in to your USB port, otherwise ZDSR will exit after a while. Think about the dongle as both a key and a battery. When it is plugged in, ZDSR receives all the necessary information and so it works correctly. In any other case it "gets lost" and so it turns itself off. In order to start using  your software you first need to run it. Running or "launching" a software means that it starts working either in the background (you do not directly see the exact steps the program performs) or in the foreground (you see and can control everything). ZDSR, being a screenreading application performs mainly in the background. You don't see how it "talks" to your computer, how it retrieves the information and how it generates speech. You just hear the program speaking. With that out of the way, let's finally run the program. There are many ways to do so, depending on the options you have set in the installer. The most common options are listed below.
 
 - Press the shortcut "LCTRL+LALT+U" (for the Commercial version) or "LCTRL+LALT+I" (for the free version) on your keyboard. This is the easiest method, as you do not have to memorize any positions. you just press these three keys together, wait a few seconds and the program is launched with a sound.
 -  Find the "Zhengdu Screenreader" (for the Commercial version) or "Zhengdu Screenreader Public Welfare Version" (for the free version) on your desktop. If, for some reason you cannot or do not want to use the keyboard sequence, you can find the appropriate icon and execute it by pressing "ENTER". You can go to your desktop by pressing the "LWIN+D" key sequence. After doing so, press letters "Z, H, E" in quick succession and finally press enter.
@@ -360,11 +358,11 @@ Sections like this summarize all new keyboard shortcuts that we have learned thr
 Blind people operate the computer somewhat differently than the sighted. They take advantage of the powerful keyboard shortcut system built-in to the Microsoft Windows operating system, while the sighted people point and click various elements with the mouse, a small device plugged in to the USB port of your computer which can be moved and clicked in order to manipulate the computer's interface. The most basic way of the keyboard navigation is something we have already practised in the previous chapter, and this is the "TAB" navigation. You can use this key to navigate forward in the software application. The "SHIFT+TAB" key combination though, will allow you to navigate backwards in a software application.
 As a small practise you can start ZDSR (LCTRL+LALT+U for the commercial edition or LCTRL+LALT+I for the Youth or free edition), and move arround the previously covered "Welcome window". When you press the "TAB" key for the first time, you will hear the following prompt:
 
-> show welcome window while starting CheckButton Checked
+> show welcome window At Startup Checkbox Checked
 
-This prompt means that your cursor (a small arrow designating where you are in the window) has moved to the option "show welcome window while starting". You can press the "TAB" key to hear the following prompt:
+This prompt means that your cursor (a small arrow designating where you are in the window) has moved to the option "show welcome window at startup". You can press the "TAB" key to hear the following prompt:
 
-> Auto Start CheckButton Checked
+> Start with Windows  Checkbox Checked
 
 Another movement of the cursor. This time, do not press the "TAB" key to move forward. Instead, press the "SHIFT+TAB" combination. Make a mental note of what you have heard and make sure you have understood the concept correctly, as it is crucial to understand the computer, and work with it well.
 The second basic thing we need to cover are the textboxes, lists, sliders, radio buttons  and comboboxes. You of course do not need to understand these concepts for now. What they have in common though is that all of them are operated using the arrow keys. The most simple control of all of these is the text box and so we will practise on it.
@@ -372,7 +370,7 @@ Use the skills you have gained in the previous section to place your cursor on t
 This is where the arrow keys come to the rescue. In this section, we will call them the "directional keys", because this will help you understand their function better.
 "UP" and "DOWN" arrows are used to read the text line by line. "DOWN ARROW" reads the next line, while the "UP ARROW" reads the previous one. Practise this here. As soon as you press the "DOWN ARROW" you will hear the following:
 
-> the computer which contains public welfare edition, Youth edition without dongle and 
+> operate their computer. The program comes in several editions, namely the public welfare 
 
 This is the second line of the text placed in the text box we are currently viewing. Imagine the situation that you do not exactly get the spelling of a word. In such a case you can use the "LEFT" and "RIGHT" arrow keys to move to the previous and next character of a current line (respectively). Another interesting function of the arrow keys is moving between words in the document. When you press the "LCTRL" together with the "LEFT" or the "RIGHT" arrow, you will move to either the previous or the next word. Yet another function connected with the arrows is the ability to move between paragraphs. When you press the "LCTRL" key together with the "UP" or the "DOWN" arrow, ZDSR will read the previous or the next paragraph, respectively. Unfortunately we cannot test this feature here, as this text is just a single paragraph.
 In case of problems with remembering these key combinations, please learn the following:
