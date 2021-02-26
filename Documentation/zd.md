@@ -444,4 +444,98 @@ In order to navigate the menu, you use the "UP" and "DOWN" arrow keys, just like
 | Quick Switch | "F" | Submenu | Provides you with the most frequently changed settings so you have an easy access to them. |
 | Help | "H" | Submenu | Allows you to get help as well as various technical information about the Zhengdu Screenreader. |
 | Exit | "X" | Menu item | Exits ZDSR. |
-: A description of the ZDSR menu.
+: A description of the ZDSR menu
+
+### Keyboard shortcuts used in this chapter
+
+| Shortcut | Description |
+| ----- | ----- |
+| SHIFT+TAB | Moves backwards in a software application. |
+| UP ARROW | Goes to the previous line while on a text box or goes to the previous list element while in a list. |
+| DOWN ARROW | Goes to the next line while on a text box or goes to the next list element while in a list. |
+| CTRL+UP ARROW | Goes to the previous paragraph in the text box. |
+| CTRL+DOWN ARROW | Goes to the next paragraph in the text box. |
+| LEFT ARROW | Goes to the previous character in a text box. |
+| RIGHT ARROW | Goes to the next character in a text box. |
+| CTRL+LEFT ARROW | Goes to the previous word in a text box. |
+| CTRL+RIGHT ARROW | Goes to the next word in a text box. |
+| HOME | Goes to the beginning of the current line while in a text box or goes to the first element of a list while in a list. |
+| END | Goes to the end of the current line while in a text box or goes to the last element of a list while in a list. |
+| CTRL+HOME | Goest o the first line of the current text box. |
+| CTRL+END | Goes to the last line of the current text box. |
+| PG UP | Goes to the previous page while in a text box or skips twenty items up while in a list. |
+| PG DOWN | Goes to the next page while in a text box or skips twenty items down while in a list. |
+| ZDSR+Z | Opens the "ZDSR Menu". |
+: Keyboard shortcuts used in chapter 3
+
+## Customizing ZDSR voice
+
+### Some theory behind the TTS engines
+
+Before setting up your personal voice configuration, first you need to understand how Text To Speech works. Learning this will help you control the voices better, as well as it will make it possible for you to make more conscious decisions while setting things up.
+Each Text To Speech voice is described by three main parameters. They are outlined below, together with their short description.
+
+| Parameter name | Parameter description |
+| ----- | ----- |
+| Volume | Controls how loud the voice is. It is important to acknowledge that only the volume of the sound is affected by this value. TTS engines don't change their intonation based on this parameter, meaning that the 100% volume will not yield an angry tone. In ZDSR, 0% is a minimal volume, while 100% is the maximum volume supported by a given text to speech engine. |
+| Speed | Affects how fast the given text to speech engine speaks. Each TTS engine has its own internal value for this parameter and so the results may warry from engine to engine. |
+| Pitch | Affects the tone of the TTS engine. The higher the value, the more childish the voice. Please keep in mind that when setting this parameter to an unreasonably high or low value, sound artifacts might occur which will disturb your reading experience. |
+: Description of various text to speech parameters
+
+### Understanding the concept of voice schemes
+
+A voice scheme is a set of various settings which describe a text to speech engine (look above). You might have different schemes for different scenarios. For example, slower, more natural voice for reading books or magazines, and a fast, robotic voice for browsing the Internet or typing with friends.
+In other words, a voice scheme is a person that you bring to life in your computer in order to help you read the screen.
+
+### Voice customization dialog
+
+In order to open the voice customization dialog, you first need to have ZDSR launched.
+If you haven't done it yet, please launch it by either pressing "LCTRL+LALT+U" for the commercial version or "LCTRL+LALT+I" for the Youth or the free version, or alternatively launching the software from the desktop.
+One it is up and running, please open the "ZDSR Menu" by pressing the "ZDSR+Z" key combination on your keyboard.
+After opening the "ZDSR Menu", you can either navigate to the "Voice Scheme..." option with your "DOWN ARROW" or alternatively press the letter "V" directly on your keyboard. No matter which road you choose, the voice customization dialog will open.
+The below table shows all the options of the voice customization dialog, together with their descriptions. You can navigate the dialog with the "TAB" or the "SHIFT+TAB" key combinations and activate various elements with the "SPACE" key..
+
+| Option name | Option description |
+| ----- | ----- |
+| Voice scheme | Allows you to select which profile is currently in use, as well as which profile you want to edit. You can change between your profiles with the "UP" and "DOWN" arrow keys. Please keep in mind that when changing the profile, the change is immediately applied, meaning that the program immediately starts speaking with the new profile. |
+| Test | Allows you to audit the currently selected profile. Activating this button will make your profile speak a short phrase displaying the settings which make up this profile. |
+| New | Opens the "New scheme" dialog allowing you to create a new voice profile. |
+| Rename | Allows you to change the name of the  currently selected voice profile. |
+| Delete | Deletes the currently selected voice profile, making it no longer visible nor usable. |
+| Capital settings | Opens the dialog allowing you to customize settings regarding announcement of the capital letters in a currently selected voice profile. |
+| Main voice | Allows you to select any voice installed on your computer for the currently selected voice profile. Here the changes are not immediately applied so you can audit them before applying them. |
+| Volume | Controls the volume of the currently selected voice profile. |
+| Speed | Controls the speed of the currently selected voice profile. |
+| Pitch | Controls the pitch of the currently selected voice profile. |
+| Enable second voice for the scheme | Allows you to create a "dual voice profile", meaning that two voices can be used simultaneously. |
+| Second voice | Shown only when "Enable second voice for the scheme" is selected, allows you to select a secondary voice for the currently selected voice profile. |
+| Second volume | Shown only when "Enable second voice for the scheme" is selected, controls the volume of the secondary voice used in the currently selected voice profile. |
+| Second speed | Shown only when "Enable second voice for the scheme" is selected, controls the speed of the secondary voice in the currently selected voice profile. |
+| Second pitch | Shown only when "Enable second voice for the scheme" is selected, controls the pitch of the secondary voice in the currently selected voice profile. |
+| OK | Saves any changes you have made in the currently selected voice profile and closes the customization dialog. |
+| Cancel | Discards any changes you have made to the currently selectedv oice profile and closes the customization dialog. |
+| Apply | Saves any changes you have made to the currently selected voice profile, but leaves the customization dialog open for further changes. |
+
+### Creating a new voice profile
+
+If you have already familiarized yourself with the "Voice customization dialog", let's now create a new voice profile in order to practice the newly gained knowledge.
+First of all, you of course need to open the "ZDSR Menu" with the "ZDSR+Z" key combination. Then, either press the letter "V" directly or navigate to the "Voice Scheme" option with your arrow keys. No matter which road you went, the well-known customization dialog will open.
+Now we need to select the "New" option. There are two ways you can do it. The first one is pressing the "LALT+N" key combination. If you were carefully listening to voice prompts given by ZDSR while navigating arround the "Voice customization dialog" you probably heard that after speaking some options it also said something along the lines of "alt+n". This means that such shortcut is available for a given element, and so pressing it is equal to navigating to it with the "TAB" key and pressing "SPACE" in order to activate it.
+If you so wish you can of course use the very same method to find the "New" option and pressing spacet o activate it.
+No matter which road you went with, the "New voice scheme" dialog will open, allowing you to create the scheme.
+The first option in this window is called "Name", As the name implies, it allows you to "name your newly created person". In this example, let's name this profile "book profile".
+After navigating further down the window with the "TAB" key, you will hear the following prompt
+
+> Single Voice RadioButton Checked
+
+This means that your newly created profile will use only one voice to speak. If you would want to create a dual voice profile, you would change the setting with the "DOWN" arrow key. However for simplicity it is recommended to leave the default setting for now.
+One more press of the "TAB" key and you land on the "OK" button. Pressing it will set up your new profile with its default settings, allowing for further customizations. If you have carried out all the previous steps, press the "SPACE" key here in order to set up your new profile and return to the "Voice customization dialog".
+Now we need to select a new voice for our newly created profile. In order to do so, navigate with the "TAB" key till you find the "Main voice" option. Now, select any voice with the "UP" and "DOWN" arrow keys. In this example, just select the voice whose name you like.
+Further down the window there are the options to manipulate the volume, speed and the pitch of the currently selected voice profile, yet since this is just an example, it is recommended to leave them be for now, but of course you can freely manipulate these options. Just be careful with the speed and make sure you can understand the voice before applying any changes.
+After everything is ready, press the "TAB" key till you find the "OK" element. Press the "SPACE" key to activate it and... Voila! Now ZDSR speaks with your newly created voice profile.
+
+### Creating the "Dual voice profile"
+
+If you speak many languages, you might sometimes need to read two of them at the same time. The "Dual voice profile" concept is created just for scenarios like that. The idea is that the "Main voice" is used for your primary language, and the "Secondary voice" is used for the secondary language. But even if you speak only one language, this function might have its advantages that we are going to explore later down this book.
+If you wish to create a "Dual voice profile" the first thing is of course to open the "ZDSR Menu" and then the "Voice Customization dialog". This time the exact steps are not given. If you need to review this material, please look above.
+When the "Voice customization dialog" is opened, navigate with the "TAB" key till you find the "new" element. Activate it with the "Space key"
