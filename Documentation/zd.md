@@ -270,7 +270,7 @@ The first screen is just an introduction. You can press the "N" key in order to 
 The second screen asks you to accept the license agreement of ZDSR. If you wish to accept the agreement, press "ALT" together with "A"
 The third screen shows what's new in the version of ZDSR you are currently installing. You can press "N" again in order to navigate to the next screen.
 The next screen is a bit more complicated though. It shows the list of additional tasks the installation program can perform during the installation process. The table describing them is outlined below, together with their description as well as a default value, in case you have unwillingly changed something.
-
+Please keep in mind that "Checked" in this case means "on" or "enabled", while "Unchecked" means "off" or "disabled".
 | Option name | Option description | Default value |
 | ----- | ----- | ----- |
 | Create desktop icon | Creates a desktop icon on your desktop. This makes it possible to quickly launch the program from the area which is visible easily. | Checked |
@@ -538,4 +538,60 @@ After everything is ready, press the "TAB" key till you find the "OK" element. P
 
 If you speak many languages, you might sometimes need to read two of them at the same time. The "Dual voice profile" concept is created just for scenarios like that. The idea is that the "Main voice" is used for your primary language, and the "Secondary voice" is used for the secondary language. But even if you speak only one language, this function might have its advantages that we are going to explore later down this book.
 If you wish to create a "Dual voice profile" the first thing is of course to open the "ZDSR Menu" and then the "Voice Customization dialog". This time the exact steps are not given. If you need to review this material, please look above.
-When the "Voice customization dialog" is opened, navigate with the "TAB" key till you find the "new" element. Activate it with the "Space key"
+When the "Voice customization dialog" is opened, navigate with the "TAB" key till you find the "new" element. Activate it with the "Space key". When the "New voice scheme" dialog opens, fill its name in the text box and navigate further with the "TAB" key.
+This time, when reaching "Single voice" setting, navigate with the "DOWN ARROW". You will hear a prompt saying "Double Voices RadioButton Checked". This means that your intention is to create the dual voice profile. Press "TAB" once more and confirm your setting by pressing the "SPACE" key on the "OK" element.
+After doing this you will be returned to the already well-known "Voice customization dialog.". In order to set various parameters for your shiny new dual voice profile, navigate with the "TAB" key till you land on the "Main Voice" element. Here, choose the voice you want to use the most often (most probably a voice of your primary language). Further down the window you can adjust parameters such as the volume, speed or the pitch of the main voice of the currently selectedv oice profile. Navigating further down will reveal another set of options. These options are strictly related to the secondary voice of the voice profile. You can choose the secondary voice, secondary volume, speech and the pitch here.
+After choosing all the necessary parameters, please save your settings by pressing the "SPACE" key on the "OK" element.
+
+### Deleting a voice profile
+
+Sometimes you might find yourself in a situation where you do not need a voice profile you have previously created. In such a situation you can delete such a profile, making it unusable, and so reclaiming the space it occupied.
+In order to delete an existing voice profile, first of all you need to get to the "Voice customization dialog". To do that, you obviously need to open the "ZDSR Menu" and press the letter "V". Once it is open, you need to select the profile you want deleted (use the "UP" and "DOWN" arrow keys to select the profile) and press the "LALT+D" key combination. After doing that the profile will vanish from the list and you will be switched to the next available profile. If there are no more profiles, ZDSR will revert back to its factory voice.
+
+### Renaming a voice profile
+
+Sometimes you might find yourself in a situation where the name you initially gave to the voice profile is no longer appropriate. In such a case you can use the "Rename" element from the "Voice customization dialog".
+After the dialog is open, first of all you need to select the voice profile you want to rename. Switch to the appropriate profile with the "UP" and "DOWN" arrow keys. Once focused, navigate with the "TAB" key till you land on the "Rename" element. Press the "SPACE" key in order to activate it. A new window will open, allowing you to carry out the rename. Right after it is opened, you can type a new name for the profile. When done, press the "ENTER" key to accept the rename, or the "ESCAPE" key to abord the operation and go back to the "Voice customization dialog".
+
+### Customizing announcements for the capital letters
+
+When proofreading texts, it is very important to know whether the character you are on is lowercase or not. Zhengdu Screenreader provides a very rich and configurable notification system, which will help you know this information very quickly and accurately. If you have followed the whole book carefully, you have already stumbled up on a case, where some characters have been read with a higher tone than the rest of the characters.
+In this section we will explore the "Capital announcement customization window" and explain various option it contains.
+In order to get to this window, first of all you need to open the forementioned "Voice customization dialog". In order to do that, open the "ZDSR Menu" with the "ZDSR+Z" key combination and press the letter "V".
+Once in the "Voice customization dialog", please navigate with the "TAB" key until you get to the "Capital settings" element. Activating it with the "SPACE" key will bring up the "Capital announcement customization window". All options contained in it are outlined below, together with their short description as well as the default value for the settings.
+
+| Option name | Option description | Default value |
+| ----- | ----- | ----- |
+| Read out "Capital" | When checked, the program will announce the capitalization of the current character by saying the word "capital" before it. | Unchecked |
+| Play sound | When checked, the program will announce the capitalization of the current character by playing a sound when reading it. | Unchecked |
+| Raise the pitch | When checked, the program will announce the capitalization of the current character by changing the pitch of the currently selected text to speech engine. | Checked |
+| Pitch | Here you can type in the pitch which will be used for reading capital letters. The range is from 0 to 100. | 70 |
+: Description of the "Capital announcement customization window"
+
+Please keep in mind that these options can be mixed together, meaning that you can make ZDSR to play a sound, as well as to raise up the pitch of the synthesizer when encountering a capital letter.
+
+### Managing voice settings on the fly
+
+Doing something "on the fly" in the computer world simply means that you can do something instantly, without hesitation or abortion of the currently carried operation. Naturally, managing the currently used voice profile, or even switching to another one must be realized as quickly and conveniently as possible because there might be situations, where you'll want to do it many times in a relatively short time.
+In order to adapt to such scenarios, ZDSR provides you with many hotkeys related to voice management. They will be described below, but for the sake of readability, a more conversational style will be used rather than our conventional table. This is because many new concepts have to be introduced.
+First concept is a "hotkey group". A hotkey group is just a design road took up by ZDSR which groups hotkeys in easy to memorize groups, by making them similar for your mind.
+And so the hotkey group used for managing the currently selected voice profile is "ZDSR+LCTRL+X", where "X" is any other key which is assigned with this group.
+The "Modifier" of this group is "ZDSR+LCTRL". A "modifier" is nothing more than the "common denominator" for the group, just like the "common denominator" for English, Russian, Chinese and Italian is the fact that all of these are languages spoken by people arround the world.
+Let's go back to our voiceh otkey group for now though. You can use the "ZDSR+LCTRL+LEFTARROW" or "ZDSR+LCTRL+RIGHT ARROW" to decide, which voice parameter you wish to change. These shortcuts can be compared to the scenario, where you move your hand arround the control panel of a washing machine to find that appropriate slider or switch.
+And you can use the "ZDSR+LCTRL+UP ARROW" or "ZDSR+LCTRL+DOWN ARROW" to adjust the parameter you previously decided to change. If you think about it for a while, you will realize that these shortcuts are extremely logical, as all three parameters (Speed, Volume and Pitch" are represented as sliders in the "Voice customization dialog".
+As a practice you can slow down your voice profile a bit. In order to do that, first navigate to the "Speed" slider with the "ZDSR+LCTRL+RIGHT ARROW" key combination. Then, adjust it slightly with the "ZDSR+LCTRL+DOWN" arrow. Then you can put it back to the default value with the "ZDSR+LCTRL+UP ARROW" key combination.
+As you have probably seen, ZDSR reads the value for parameters while navigating between them, as well as when adjusting them.
+There are two more shortcuts you need to be aware of for now. These are "ZDSR+F9" and "ZDSR+SHIFT+F9". They are used to switch either to the next or the previous voice profile you have previously created. This allows you to switch voice profiles rapidly without the need to open the "Voice customization dialog".
+There are more hotkeys relatedt o the voice management aspect of ZDSR, but they are too advanced for now. Don't worry though, as they will be explained in due time.
+
+### Keyboard shortcuts used in this chapter
+
+| Shortcut | Description |
+| ----- | ----- |
+| ZDSR+LEFT ARROW | Switches to the previous parameter for the currently selected voice profile. |
+| ZDSR+RIGHT ARROW | Switches to the next parameter for the currently selected voice profile. |
+| ZDSR+UP ARROW | Increases the currently selected parameter for the currently selected voice profile by 1. |
+| ZDSR+DOWN ARROW | Decreases the currently selected parameter for the currently selected voice profile by 1. |
+| ZDSR+F9 | Switches to the next voice profile. |
+| ZDSR+SHIFT+F9 | Switchest o the previous voice profile. |
+: Keyboard shortcuts used in chapter 4
