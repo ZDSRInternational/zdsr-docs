@@ -595,3 +595,35 @@ There are more hotkeys relatedt o the voice management aspect of ZDSR, but they 
 | ZDSR+F9 | Switches to the next voice profile. |
 | ZDSR+SHIFT+F9 | Switchest o the previous voice profile. |
 : Keyboard shortcuts used in chapter 4
+
+## Learning Windows: choosing the best software
+
+### What's it all about?
+
+When you opened this book for the first time, you probably assumed that it will be a dry guide on using Zhengdu Screenreader and nothing more. No! This is not the case for this book. Learning ZDSR itself is like learning how to drive. But what use does driving have without having a good road to drive on? The chapters with the title of "Learning Windows" are here to teach you on how to use your computer with conjunction with all the knowledge you have received in the main part of this book.
+In the introductory chapter of such type, we'll talk more about various software programs you can have on your machine. This chapter will contain no practice whatsoever, just an introduction to various software types.
+
+### What can your computer do?
+
+Before starting to think about what specific programs you'll use in the future, first you need to ask yourself "What can I do with my computer?"
+The answer will probably be satisfactory for you. You can do really a lot with your machine! You can read news, communicate with friends, listen to music, play chess, listen to radio, play games and many many more!
+This chapter will give you some insight on what software is the best and most accessible with ZDSR, but the more experience you have in computers, the more likely you'll search for alternatives. Let's begin then!
+
+### Web browser
+
+A web browser is one of the most essential software programs you can have on your computer. It allows you to surf the beautiful Internet world and in consequence access countless information! Because of that your experience must be as smooth and painless as possible.
+If you are using the Windows 10 operating system, then you have a very good browser built-in. Its called Microsoft Edge and it can be accessed straight from your "start menu" or the "Task bar".
+If you are using Windows 7 though, you will need to install a different browser. Its name is Google Chrome. Its very fast and friendly to the user, and it can have countless functions because of its extension system.
+Of course, you can install Google Chrome on Windows 10 too if you so wish, but on this operating system, this step is not necessary to use the computer efficiently.
+The process of downloading and installing Chrome with the help of ZDSR will be covered later down this book.
+
+### Text editor
+
+You can use your computer to write various kinds of texts, starting with short messagest o friends or family, through school essays to full-fledged books! In fact, we write this book using exclusively a computer and ZDSR!
+Microsoft Windows itself has two text editors built-in.
+The first one is called "Notepad" and is very simple. You can use it to write very short texts for your own use. It is not recommended to write anything more serious using this program. Its simplicity comes with a price of almost non-existent functions and bad-looking documents.
+A slightly better option is another editor built into Windows. Its name is "Word pad". It can be used to write basic texts and documents, but as with in the case of Notepad, the generated documents are in no way pretty.
+If you want to write serious and good-looking documents, then we recommend grabbing the Microsoft Office Home suite. Unfortunately this software is paid, but very often you can get it for free from various institutions, either educational or vocational. Microsoft Office will be covered in depth later down this book.
+
+### Mail client
+
