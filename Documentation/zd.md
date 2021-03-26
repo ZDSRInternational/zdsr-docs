@@ -277,9 +277,9 @@ Please keep in mind that "Checked" in this case means "on" or "enabled", while "
 | Start with Windows | Enabling this option makes it so that your computer starts speaking automatically right after its turned on. | Checked |
 | Read Windows logon window and security window | Controls whether ZDSR reads the secure screens of the Microsoft Windows operating system. If you don't know what this option is, leave it be. | Checked |
 | Install Skyvoice TTS engine | Installs the Skyvoice TTS engine, a high quality Chinese and english voice. | Checked |
-| Install IBM ViaVoice TTS Engine | Installs the English Eloquence synthesiser. | Checked |
+| Install IBM ViaVoice TTS Engine | Installs the English Eloquence synthesizer. | Checked |
 | Install IBM Chinese TTS Engine | Installs the Chinese Eloquence synthesiser. | Checked |
-| Install Mini Dog driver | Installs a driver for the dongle, a device which authorises the legitimity of your ZDSR license. If you use the online edition, or the free edition of ZDSR, you can freely uncheck this option. | Checked |
+| Install Mini Dog driver | Installs a driver for the dongle, a device which authorizes your ZDSR license. If you use the online edition, or the free edition of ZDSR, you can freely uncheck this option. | Checked |
  : Detailed description of the installer's options
 
 After making any special amendments to the component list, you can press "N" again to continue.
@@ -398,36 +398,36 @@ In case of problems with remembering these key combinations, please learn the fo
 
 #### Practise the basic keyboard navigation
 
-Sections like this will give you some basic exercises in order to facilitate the knowledge you have gained when reading the previous section or chapter. Sometimes the exercises are simple and so answers for them are basically at your fingertips, and sometimes they might be a little bit harder requiring you to do your own research, either by going back in this book or reading any recommended material.
-This first exercise will be concerning launching the Zhengdu Screenreader from the desktop.
-A desktop is the area that is first visible just when your computer starts up. If you have installed ZDSR with default options, an icon for it has been placed on it. If you wish to open the desktop, press the "LWIN+D" key combination.
-Tip: The desktop is a special case of a control that is called a grid. A grid in this case means that you can move in all four directions, and so locating the icon you want might not be as easy. is there another way I can open ZDSR from the desktop?
+Sections like this will provide you with some basic exercises, so you can apply the knowledge you have acquired when reading the previous section or chapter. Sometimes the exercises are simple and so the answers are basically at your fingertips, while other times they might be a little bit harder, requiring you to do your own research, either by going back in this book or reading any recommended material.
+This first exercise will be about launching the Zhengdu Screen reader from the desktop.
+A desktop is the area that is first visible when your computer starts up. If you have installed ZDSR with default options, an icon for it has been placed on it. If you wish to open the desktop, press the "LWIN+D" key combination.
+Tip: The desktop is a special case of a control that is called a grid. A grid in this case means that you can move in all four directions, and so locating the icon you want might not be so easy. Is there another way I can open ZDSR from the desktop?
 
 ### Understanding the "ZDSR Key"
 
-The "ZDSR Key" is a very important concept to master if you want to master the screenreader as well as possible. The "ZDSR key" can be thought of as a master key for ZDSR, meaning that most keys pressed with conjunction with this key will control a given ZDSR behavior.
+The "ZDSR Key" is a very important concept to understand, if you want to master the screen reader as well as possible. The "ZDSR key" can be thought of as a master key for ZDSR, meaning that most keys pressed in conjunction with this key will control a given ZDSR behavior.
 This explanation is a bit simplified, but for now it is enough to get you up and running.
-By default, ZDSR has three keys assigned for itself. You might be wondering: "Why three keys have to be assigned for the screenreader? Do I really have to learn all of them?"
-The answer to this question is rather simple and fortunately for you, while helpful, learning all three ZDSR keys is not mandatory. They are here for your convenience. If you need to work with just one hand you might be using the "CAPSLOCK" key as the ZDSR key, but if you need a more comfortable position you can always go for the "NUMPAD ZERO" key. With that out of the way, let's see what keys are assigned for ZDSR.
-First of all, the "capslock" key: in most of cases it is the fourth key when going down from the very top left corner of the keyboard. By default it is used to make it so that capital letters don't have to be written by holding the "SHIFT" key/. It does not lose this function when being the "ZDSR key". When you press "CAPSLOCK" with any key which creates a correct ZDSR command, then it is intercepted and handled by the screenreader.
+By default, ZDSR has three keys assigned to itself. You might be wondering: "Why do three keys have to be assigned to the screen reader? Do I really have to learn all of them?"
+The answer to this question is rather simple and, fortunately for you, also helpful, Learning all three ZDSR keys is not mandatory. They are here for your convenience. If you need to work with just one hand you might be using the "CAPSLOCK" key as the ZDSR key, but if you need a more comfortable position, you can always go for the "NUMPAD ZERO" key. With that out of the way, let's see what keys are assigned to ZDSR.
+First of all, the "capslock" key: in most cases it is the fourth key when going down from the very top left corner of the keyboard. By default it allows you to type a series of capital letters without having to  hold down the "SHIFT" key/. It does not lose this function when used as the "ZDSR key". When you press "CAPSLOCK" with any key which creates a correct ZDSR command, then it is intercepted and handled by the screen reader.
 Secondly, the "NUMPAD ZERO" key: it is generally the third key when going left from the very bottom right of the keyboard. Please keep in mind that "NUMLOCK" has to be off for the key to behave as a ZDSR key. If the "NUMLOCK" is on instead, this key will just type the number 0.
-The last of the three ZDSR keys is the "INSERT" key. It is located to the left of the "HOME" key so it's the top left key of the little rectangular block located above the arrow keys. This key has no other special function in Windows, and so it is always reserved for ZDSR.
+The last of the three ZDSR keys is the "INSERT" key. It is located to the left of the "HOME" key, so it's the top left key of the little rectangular block located above the arrow keys. This key has no other special function in Windows, and so it is always reserved for ZDSR.
 
-#### Practising usage of the "ZDSR key"
+#### Practising use of the "ZDSR key"
 
 The point of this exercise is to make yourself comfortable with all three ZDSR keys. This exercise will be simple and easy, but it will let you see which of the three available ZDSR keys is the best for you.
 Press the "ZDSR+Z" key combination (substituting "ZDSR" with each of the ZDSR keys), then press "ESCAPE" and repeat the process for the remaining keys.
 
 ### Understanding the "ZDSR menu"
 
-Before diving into all the details of the thing, first we need to answer the question: "What is the "ZDSR Menu"?" Imagine a central hub, from where all the commands can be executed. It's very much like a control panel of a washing machine or a dishwasher, where the series of buttons allows you to execute the devices' most used features. The principle works in the exactly same manner here.
-In order to open the "ZDSR menu" you need to press the "ZDSR+Z" key combination. Remember to substitute "ZDSR" with any of the three available ZDSR keys. After doing that you will hear the following prompt:
+Before delving into all the details of this topic, we need to answer the question: "What is the "ZDSR Menu"?" Imagine a central hub, from where all the commands can be executed. It's very much like a control panel of a washing machine or a dishwasher, where the series of buttons allows you to execute the devices' most used features. The principle works in the exactly same manner here.
+In order to open the "ZDSR menu" you need to press the "ZDSR+Z" key combination. Remember to substitute "ZDSR" with any of the three available ZDSR keys. After doing that, you will hear the following prompt:
 
 > ZDSR Settings(S)... 
 
-This prompt means that your cursor is  on the "ZDSR Settings..." option, and its shortcut key is the letter "S". Remember that thought flow when analyzing further menu options, as it will be useful not only in ZDSR itself, but also in other software applications we will explore in this book or the ones you will use by yourself.
+This prompt means that your cursor is  on the "ZDSR Settings..." option, and its shortcut key is the letter "S". Remember that thought pattern when analyzing further menu options, as it will be useful not only in ZDSR itself, but also in other software applications we will explore in this book, or the ones you will use by yourself.
 Menus have some nomenclature concerning them, but for now we need to learn only about one term. This term is "popup menu". A "popup menu" is nothing morre than a "child" of a main menu, or a "branch" of a tree. In our computer world it means that there's a new road in place of such menu, and so we can press the "RIGHT ARROW" to expand such menu. As a trivia its worth remembering that a "popup menu" is sometimes called a "submenu", so it's something smaller, branching of something bigger. If you would want to go back from a submenu though, you can use either the "LEFT ARROW" or you can "ESCAPE" from it.
-Even though the "ZDSR menu" has some submenus (three, to be exact), in this section we will not cover them, as options behind them are hidden for a reason. Don't worry though, we will be going back to the "ZDSR Menu" probably throughout the whole remainder of this book. This section is here to make you understand the concept well, as well as to create a little map in your mind. We will circle important points of interests on it with time, but for now we will just mark some roads, so you know where to go and how to go back when lost.
+Even though the "ZDSR menu" has some submenus (three, to be exact), in this section we will not cover them, as the options behind them are hidden for a reason. Don't worry though; we will be going back to the "ZDSR Menu" probably throughout the rest of this book. This section is intended to to give you a good understanding of the concept, as well as to help you create a little map in your mind. We will circle important points of interests on it with time, but for now we will just mark some roads, so you know where to go and how to go back when lost.
 In order to navigate the menu, you use the "UP" and "DOWN" arrow keys, just like "NORTH" and "SOUTH" on the compass. If you encounter a submenu, you can expand it with the "RIGHT ARROW", or collapse it with the "LEFT ARROW", just like east and west on the compass. The below table describes all the top-level options of the "ZDSR Menu". As said above, contents of the submenus will remain hidden for now, yet you can explore by yourself if you so wish. Remember not to press the "ENTER" key on options you do not understand, as you can really break your working environment. Be careful!!!
 
 | Option name | Hotkey | Option type | Option description |
@@ -437,12 +437,12 @@ In order to navigate the menu, you use the "UP" and "DOWN" arrow keys, just like
 | Daily attendance | "Q" | Menu item | Signs you in to the "Zhengdu Network". |
 | Login | "L" | Menu item | Allows you to login to the "Zhengdu Network". |
 | ZD Net | "Z" | Menu item | Opens the "Zhengdu Network". |
-| ZD Notice... | "N" | Menu item | Displays all recent announcements regarding the Zhengdu Screenreader. |
+| ZD Notice... | "N" | Menu item | Displays all recent announcements regarding the Zhengdu Screen reader. |
 | Welcome window... | "W" | Menu item | Opens the "Welcome window". |
 | Different from public welfare edition | None | Menu item | Shows all the differences between various software editions. |
 | Tools | "T" | Submenu | Provides you with various advanced tools used to aid you in working with ZDSR. |
-| Quick Switch | "F" | Submenu | Provides you with the most frequently changed settings so you have an easy access to them. |
-| Help | "H" | Submenu | Allows you to get help as well as various technical information about the Zhengdu Screenreader. |
+| Quick Switch | "F" | Submenu | Provides you with the most frequently changed settings, so you have an easy access to them. |
+| Help | "H" | Submenu | Allows you to get help as well as various technical information about the Zhengdu Screen reader. |
 | Exit | "X" | Menu item | Exits ZDSR. |
 : A description of the ZDSR menu
 
@@ -451,20 +451,20 @@ In order to navigate the menu, you use the "UP" and "DOWN" arrow keys, just like
 | Shortcut | Description |
 | ----- | ----- |
 | SHIFT+TAB | Moves backwards in a software application. |
-| UP ARROW | Goes to the previous line while on a text box or goes to the previous list element while in a list. |
-| DOWN ARROW | Goes to the next line while on a text box or goes to the next list element while in a list. |
-| CTRL+UP ARROW | Goes to the previous paragraph in the text box. |
-| CTRL+DOWN ARROW | Goes to the next paragraph in the text box. |
+| UP ARROW | Goes to the previous line while in a text box, or goes to the previous list element while in a list. |
+| DOWN ARROW | Goes to the next line while in a text box, or goes to the next list element while in a list. |
+| CTRL+UP ARROW | Goes to the previous paragraph in a text box. |
+| CTRL+DOWN ARROW | Goes to the next paragraph in a text box. |
 | LEFT ARROW | Goes to the previous character in a text box. |
 | RIGHT ARROW | Goes to the next character in a text box. |
 | CTRL+LEFT ARROW | Goes to the previous word in a text box. |
 | CTRL+RIGHT ARROW | Goes to the next word in a text box. |
-| HOME | Goes to the beginning of the current line while in a text box or goes to the first element of a list while in a list. |
-| END | Goes to the end of the current line while in a text box or goes to the last element of a list while in a list. |
-| CTRL+HOME | Goest o the first line of the current text box. |
+| HOME | Goes to the beginning of the current line while in a text box, or goes to the first element of a list while in a list. |
+| END | Goes to the end of the current line while in a text box, or goes to the last element of a list while in a list. |
+| CTRL+HOME | Goes to the first line of the current text box. |
 | CTRL+END | Goes to the last line of the current text box. |
-| PG UP | Goes to the previous page while in a text box or skips twenty items up while in a list. |
-| PG DOWN | Goes to the next page while in a text box or skips twenty items down while in a list. |
+| PG UP | Goes to the previous page while in a text box, or moves up twenty items while in a list. |
+| PG DOWN | Goes to the next page while in a text box, or moves down twenty items while in a list. |
 | ZDSR+Z | Opens the "ZDSR Menu". |
 : Keyboard shortcuts used in chapter 3
 
@@ -472,38 +472,38 @@ In order to navigate the menu, you use the "UP" and "DOWN" arrow keys, just like
 
 ### Some theory behind the TTS engines
 
-Before setting up your personal voice configuration, first you need to understand how Text To Speech works. Learning this will help you control the voices better, as well as it will make it possible for you to make more conscious decisions while setting things up.
-Each Text To Speech voice is described by three main parameters. They are outlined below, together with their short description.
+Before setting up your personal voice configuration, you need to understand how Text-To-Speech works. Learning this will help you control the voices better, as well as it will make it possible for you to make more conscious decisions while setting things up.
+Each Text-To-Speech voice is described by three main parameters. They are outlined below, together with their short description.
 
 | Parameter name | Parameter description |
 | ----- | ----- |
-| Volume | Controls how loud the voice is. It is important to acknowledge that only the volume of the sound is affected by this value. TTS engines don't change their intonation based on this parameter, meaning that the 100% volume will not yield an angry tone. In ZDSR, 0% is a minimal volume, while 100% is the maximum volume supported by a given text to speech engine. |
-| Speed | Affects how fast the given text to speech engine speaks. Each TTS engine has its own internal value for this parameter and so the results may warry from engine to engine. |
-| Pitch | Affects the tone of the TTS engine. The higher the value, the more childish the voice. Please keep in mind that when setting this parameter to an unreasonably high or low value, sound artifacts might occur which will disturb your reading experience. |
-: Description of various text to speech parameters
+| Volume | Controls how loud the voice is. It is important to acknowledge that only the volume of the sound is affected by this value. TTS engines don't change their intonation based on this parameter, meaning that the 100% volume will not yield an angry tone. In ZDSR, 0% is a minimal volume, while 100% is the maximum volume supported by a given text-to-speech engine. |
+| Speed | Affects how fast the given text-to-speech engine speaks. Each TTS engine has its own internal value for this parameter and so the results may warry from engine to engine. |
+| Pitch | Affects the tone of the TTS engine. The higher the value, the more "child-like" the voice. Please keep in mind that when setting this parameter to an unreasonably high or low value, sound artifacts might occur which will disturb your reading experience. |
+: Description of various text-to-speech parameters
 
 ### Understanding the concept of voice schemes
 
-A voice scheme is a set of various settings which describe a text to speech engine (look above). You might have different schemes for different scenarios. For example, slower, more natural voice for reading books or magazines, and a fast, robotic voice for browsing the Internet or typing with friends.
-In other words, a voice scheme is a person that you bring to life in your computer in order to help you read the screen.
+A voice scheme is a set of various settings which describe a text-to-speech engine (see above). You might have different schemes for different scenarios. For example, a slower, more natural voice for reading books or magazines, and a fast, robotic voice for browsing the Internet or typing with friends.
+In other words, a voice scheme is a person that you bring to life in your computer, in order to help you read the screen.
 
 ### Voice customization dialog
 
-In order to open the voice customization dialog, you first need to have ZDSR launched.
-If you haven't done it yet, please launch it by either pressing "LCTRL+LALT+U" for the commercial version or "LCTRL+LALT+I" for the Youth or the free version, or alternatively launching the software from the desktop.
-One it is up and running, please open the "ZDSR Menu" by pressing the "ZDSR+Z" key combination on your keyboard.
+In order to open the voice customization dialog, you need to first launch ZDSR.
+If you haven't done it yet, please launch it by either pressing "LCTRL+LALT+U" for the commercial version, or "LCTRL+LALT+I" for the Youth or the free version or, alternatively, launching the software from the desktop.
+Once it is up and running, please open the "ZDSR Menu" by pressing the "ZDSR+Z" key combination on your keyboard.
 After opening the "ZDSR Menu", you can either navigate to the "Voice Scheme..." option with your "DOWN ARROW" or alternatively press the letter "V" directly on your keyboard. No matter which road you choose, the voice customization dialog will open.
-The below table shows all the options of the voice customization dialog, together with their descriptions. You can navigate the dialog with the "TAB" or the "SHIFT+TAB" key combinations and activate various elements with the "SPACE" key..
+The below table shows all the options of the voice customization dialog, together with their descriptions. You can navigate the dialog with the "TAB" or the "SHIFT+TAB" key combinations and activate various elements with the "SPACE bar"..
 
 | Option name | Option description |
 | ----- | ----- |
 | Voice scheme | Allows you to select which profile is currently in use, as well as which profile you want to edit. You can change between your profiles with the "UP" and "DOWN" arrow keys. Please keep in mind that when changing the profile, the change is immediately applied, meaning that the program immediately starts speaking with the new profile. |
 | Test | Allows you to audit the currently selected profile. Activating this button will make your profile speak a short phrase displaying the settings which make up this profile. |
-| New | Opens the "New scheme" dialog allowing you to create a new voice profile. |
-| Rename | Allows you to change the name of the  currently selected voice profile. |
+| New | Opens the "New scheme" dialog, allowing you to create a new voice profile. |
+| Rename | Allows you to change the name of the currently selected voice profile. |
 | Delete | Deletes the currently selected voice profile, making it no longer visible nor usable. |
 | Capital settings | Opens the dialog allowing you to customize settings regarding announcement of the capital letters in a currently selected voice profile. |
-| Main voice | Allows you to select any voice installed on your computer for the currently selected voice profile. Here the changes are not immediately applied so you can audit them before applying them. |
+| Main voice | Allows you to select any voice installed on your computer for the currently selected voice profile. Here the changes are not immediately applied, so you can audit them before applying them. |
 | Volume | Controls the volume of the currently selected voice profile. |
 | Speed | Controls the speed of the currently selected voice profile. |
 | Pitch | Controls the pitch of the currently selected voice profile. |
@@ -513,72 +513,72 @@ The below table shows all the options of the voice customization dialog, togethe
 | Second speed | Shown only when "Enable second voice for the scheme" is selected, controls the speed of the secondary voice in the currently selected voice profile. |
 | Second pitch | Shown only when "Enable second voice for the scheme" is selected, controls the pitch of the secondary voice in the currently selected voice profile. |
 | OK | Saves any changes you have made in the currently selected voice profile and closes the customization dialog. |
-| Cancel | Discards any changes you have made to the currently selectedv oice profile and closes the customization dialog. |
+| Cancel | Discards any changes you have made to the currently selected voice profile and closes the customization dialog. |
 | Apply | Saves any changes you have made to the currently selected voice profile, but leaves the customization dialog open for further changes. |
 
 ### Creating a new voice profile
 
-If you have already familiarized yourself with the "Voice customization dialog", let's now create a new voice profile in order to practice the newly gained knowledge.
-First of all, you of course need to open the "ZDSR Menu" with the "ZDSR+Z" key combination. Then, either press the letter "V" directly or navigate to the "Voice Scheme" option with your arrow keys. No matter which road you went, the well-known customization dialog will open.
-Now we need to select the "New" option. There are two ways you can do it. The first one is pressing the "LALT+N" key combination. If you were carefully listening to voice prompts given by ZDSR while navigating arround the "Voice customization dialog" you probably heard that after speaking some options it also said something along the lines of "alt+n". This means that such shortcut is available for a given element, and so pressing it is equal to navigating to it with the "TAB" key and pressing "SPACE" in order to activate it.
-If you so wish you can of course use the very same method to find the "New" option and pressing spacet o activate it.
-No matter which road you went with, the "New voice scheme" dialog will open, allowing you to create the scheme.
+If you have already familiarized yourself with the "Voice customization dialog", let's now create a new voice profile in order to practice the newly acquired knowledge.
+First of all, you of course need to open the "ZDSR Menu" with the "ZDSR+Z" key combination. Then, either press the letter "V" directly, or navigate to the "Voice Scheme" option with your arrow keys. No matter which road you went, the well-known customization dialog will open.
+Now we need to select the "New" option. There are two ways you can do it. The first one is by pressing the "LALT+N" key combination. If you were carefully listening to voice prompts given by ZDSR while navigating arround the "Voice customization dialog" you probably heard that after speaking some options it also said something along the lines of "alt+n". This means that such shortcut is available for a given element, and so pressing it is equal to navigating to it with the "TAB" key and pressing "SPACE" in order to activate it.
+If you wish, you can of course use the very same method to find the "New" option and press space to activate it.
+No matter which road you went by, the "New voice scheme" dialog will open, allowing you to create the scheme.
 The first option in this window is called "Name", As the name implies, it allows you to "name your newly created person". In this example, let's name this profile "book profile".
 After navigating further down the window with the "TAB" key, you will hear the following prompt
 
 > Single Voice RadioButton Checked
 
-This means that your newly created profile will use only one voice to speak. If you would want to create a dual voice profile, you would change the setting with the "DOWN" arrow key. However for simplicity it is recommended to leave the default setting for now.
-One more press of the "TAB" key and you land on the "OK" button. Pressing it will set up your new profile with its default settings, allowing for further customizations. If you have carried out all the previous steps, press the "SPACE" key here in order to set up your new profile and return to the "Voice customization dialog".
+This means that your newly created profile will use only one voice to speak. If you wanted to create a dual voice profile, you would change the setting with the "DOWN" arrow key. However, for simplicity it is recommended to leave the default setting for now.
+Press the "TAB" key once again and you will land on the "OK" button. Pressing it will set up your new profile with its default settings, allowing for further customizations. If you have carried out all the previous steps, press the "SPACE" key here in order to set up your new profile and return to the "Voice customization dialog".
 Now we need to select a new voice for our newly created profile. In order to do so, navigate with the "TAB" key till you find the "Main voice" option. Now, select any voice with the "UP" and "DOWN" arrow keys. In this example, just select the voice whose name you like.
-Further down the window there are the options to manipulate the volume, speed and the pitch of the currently selected voice profile, yet since this is just an example, it is recommended to leave them be for now, but of course you can freely manipulate these options. Just be careful with the speed and make sure you can understand the voice before applying any changes.
+Further down the window there are the options to manipulate the volume, speed and pitch of the currently selected voice profile; yet since this is just an example, it is recommended to leave them be for now, but of course you can freely manipulate these options. Just be careful with the speed and make sure you can understand the voice before applying any changes.
 After everything is ready, press the "TAB" key till you find the "OK" element. Press the "SPACE" key to activate it and... Voila! Now ZDSR speaks with your newly created voice profile.
 
-### Creating the "Dual voice profile"
+### Creating a "Dual voice profile"
 
-If you speak many languages, you might sometimes need to read two of them at the same time. The "Dual voice profile" concept is created just for scenarios like that. The idea is that the "Main voice" is used for your primary language, and the "Secondary voice" is used for the secondary language. But even if you speak only one language, this function might have its advantages that we are going to explore later down this book.
-If you wish to create a "Dual voice profile" the first thing is of course to open the "ZDSR Menu" and then the "Voice Customization dialog". This time the exact steps are not given. If you need to review this material, please look above.
+If you speak many languages, you might sometimes need to read two of them at the same time. The "Dual voice profile" concept is created just for scenarios like that. The idea is that the "Main voice" is used for your primary language, and the "Secondary voice" is used for the secondary language. But even if you speak only one language, this function might have advantages that we are going to explore later on in this book.
+If you wish to create a "Dual voice profile" the first thing is of course to open the "ZDSR Menu" and then the "Voice Customization dialog". This time the exact steps are not given. If you need to review this material, please se above.
 When the "Voice customization dialog" is opened, navigate with the "TAB" key till you find the "new" element. Activate it with the "Space key". When the "New voice scheme" dialog opens, fill its name in the text box and navigate further with the "TAB" key.
-This time, when reaching "Single voice" setting, navigate with the "DOWN ARROW". You will hear a prompt saying "Double Voices RadioButton Checked". This means that your intention is to create the dual voice profile. Press "TAB" once more and confirm your setting by pressing the "SPACE" key on the "OK" element.
-After doing this you will be returned to the already well-known "Voice customization dialog.". In order to set various parameters for your shiny new dual voice profile, navigate with the "TAB" key till you land on the "Main Voice" element. Here, choose the voice you want to use the most often (most probably a voice of your primary language). Further down the window you can adjust parameters such as the volume, speed or the pitch of the main voice of the currently selectedv oice profile. Navigating further down will reveal another set of options. These options are strictly related to the secondary voice of the voice profile. You can choose the secondary voice, secondary volume, speech and the pitch here.
-After choosing all the necessary parameters, please save your settings by pressing the "SPACE" key on the "OK" element.
+This time, when reaching "Single voice" setting, navigate with the "DOWN ARROW". You will hear a prompt saying "Double Voices RadioButton Checked". This means that your intention is to create a dual voice profile. Press "TAB" once more and confirm your setting by pressing the "SPACE" bar on the "OK" element.
+After doing this, you will be returned to the already well-known "Voice customization dialog.". In order to set various parameters for your shiny new dual voice profile, navigate with the "TAB" key till you land on the "Main Voice" element. Here, choose the voice you want to use most often (most probably a voice in your primary language). Further down the window you can adjust parameters such as the volume, speed or pitch of the main voice of the currently selected voice profile. Navigating further down will reveal another set of options. These options are strictly related to the secondary voice of the voice profile. You can choose the secondary voice, secondary volume, speech and the pitch here.
+After choosing all the necessary parameters, please save your settings by pressing the "SPACE" bar on the "OK" element.
 
 ### Deleting a voice profile
 
-Sometimes you might find yourself in a situation where you do not need a voice profile you have previously created. In such a situation you can delete such a profile, making it unusable, and so reclaiming the space it occupied.
+Sometimes you might find that you no longer need a voice profile you had previously created. In this case, you can delete such a profile, making it unusable, and so reclaiming the space it occupied.
 In order to delete an existing voice profile, first of all you need to get to the "Voice customization dialog". To do that, you obviously need to open the "ZDSR Menu" and press the letter "V". Once it is open, you need to select the profile you want deleted (use the "UP" and "DOWN" arrow keys to select the profile) and press the "LALT+D" key combination. After doing that the profile will vanish from the list and you will be switched to the next available profile. If there are no more profiles, ZDSR will revert back to its factory voice.
 
 ### Renaming a voice profile
 
-Sometimes you might find yourself in a situation where the name you initially gave to the voice profile is no longer appropriate. In such a case you can use the "Rename" element from the "Voice customization dialog".
-After the dialog is open, first of all you need to select the voice profile you want to rename. Switch to the appropriate profile with the "UP" and "DOWN" arrow keys. Once focused, navigate with the "TAB" key till you land on the "Rename" element. Press the "SPACE" key in order to activate it. A new window will open, allowing you to carry out the rename. Right after it is opened, you can type a new name for the profile. When done, press the "ENTER" key to accept the rename, or the "ESCAPE" key to abord the operation and go back to the "Voice customization dialog".
+Sometimes you might find that the name you initially gave to the voice profile is no longer appropriate. In such a case you can use the "Rename" element from the "Voice customization dialog".
+After the dialog is open, first of all you need to select the voice profile you want to rename. Switch to the appropriate profile with the "UP" and "DOWN" arrow keys. Once focused, navigate with the "TAB" key till you land on the "Rename" element. Press the "SPACE" bar to activate it. A new window will open, allowing you to carry out renaming. Right after it is opened, you can type a new name for the profile. When done, press the "ENTER" key to accept the rename, or the "ESCAPE" key to abort the operation and go back to the "Voice customization dialog".
 
-### Customizing announcements for the capital letters
+### Customizing announcements for capital letters
 
-When proofreading texts, it is very important to know whether the character you are on is lowercase or not. Zhengdu Screenreader provides a very rich and configurable notification system, which will help you know this information very quickly and accurately. If you have followed the whole book carefully, you have already stumbled up on a case, where some characters have been read with a higher tone than the rest of the characters.
-In this section we will explore the "Capital announcement customization window" and explain various option it contains.
-In order to get to this window, first of all you need to open the forementioned "Voice customization dialog". In order to do that, open the "ZDSR Menu" with the "ZDSR+Z" key combination and press the letter "V".
+When proofreading texts, it is very important to know whether the character you are on is lowercase or not. Zhengdu Screen reader provides a very rich and configurable notification system, which will help you obtain this information very quickly and accurately. If you have followed the whole book carefully, you have already stumbled upon a case, where some characters have been read with a higher tone than the rest of the characters.
+In this section we will explore the "Capital announcement customization window" and explain various options it contains.
+In order to get to this window, first of all you need to open the aforementioned "Voice customization dialog". In order to do that, open the "ZDSR Menu" with the "ZDSR+Z" key combination and press the letter "V".
 Once in the "Voice customization dialog", please navigate with the "TAB" key until you get to the "Capital settings" element. Activating it with the "SPACE" key will bring up the "Capital announcement customization window". All options contained in it are outlined below, together with their short description as well as the default value for the settings.
 
 | Option name | Option description | Default value |
 | ----- | ----- | ----- |
 | Read out "Capital" | When checked, the program will announce the capitalization of the current character by saying the word "capital" before it. | Unchecked |
 | Play sound | When checked, the program will announce the capitalization of the current character by playing a sound when reading it. | Unchecked |
-| Raise the pitch | When checked, the program will announce the capitalization of the current character by changing the pitch of the currently selected text to speech engine. | Checked |
-| Pitch | Here you can type in the pitch which will be used for reading capital letters. The range is from 0 to 100. | 70 |
+| Raise the pitch | When checked, the program will announce the capitalization of the current character by changing the pitch of the currently selected text-to-speech engine. | Checked |
+| Pitch | Here you can type in the pitch which will be used for reading capital letters. The range goes from 0 to 100. | 70 |
 : Description of the "Capital announcement customization window"
 
-Please keep in mind that these options can be mixed together, meaning that you can make ZDSR to play a sound, as well as to raise up the pitch of the synthesizer when encountering a capital letter.
+Please keep in mind that these options can be combined together, meaning that you can make ZDSR to play a sound, as well as to raise up the pitch of the synthesizer when encountering a capital letter.
 
 ### Managing voice settings on the fly
 
-Doing something "on the fly" in the computer world simply means that you can do something instantly, without hesitation or abortion of the currently carried operation. Naturally, managing the currently used voice profile, or even switching to another one must be realized as quickly and conveniently as possible because there might be situations, where you'll want to do it many times in a relatively short time.
-In order to adapt to such scenarios, ZDSR provides you with many hotkeys related to voice management. They will be described below, but for the sake of readability, a more conversational style will be used rather than our conventional table. This is because many new concepts have to be introduced.
-First concept is a "hotkey group". A hotkey group is just a design road took up by ZDSR which groups hotkeys in easy to memorize groups, by making them similar for your mind.
-And so the hotkey group used for managing the currently selected voice profile is "ZDSR+LCTRL+X", where "X" is any other key which is assigned with this group.
+Doing something "on the fly" in the computer world simply means that you can do something instantly, without hesitation or without aborting of the operation currently in progress. Naturally, managing the currently used voice profile, or even switching to another one must be realized as quickly and conveniently as possible because there might be situations, where you'll want to do it many times in a relatively short time.
+In order to handle such scenarios, ZDSR provides you with many hotkeys related to voice management. They will be described below, but for the sake of readability, a more conversational style will be used rather than our conventional table. This is because many new concepts have to be introduced.
+The first concept is that of a"hotkey group". A hotkey group is just a design road taken up by ZDSR which groups hotkeys in easy-to-memorize groups, making them similar for your mind to remember.
+And so the hotkey group used for managing the currently selected voice profile is "ZDSR+LCTRL+X", where "X" is any other key which is assigned to this group.
 The "Modifier" of this group is "ZDSR+LCTRL". A "modifier" is nothing more than the "common denominator" for the group, just like the "common denominator" for English, Russian, Chinese and Italian is the fact that all of these are languages spoken by people arround the world.
-Let's go back to our voiceh otkey group for now though. You can use the "ZDSR+LCTRL+LEFTARROW" or "ZDSR+LCTRL+RIGHT ARROW" to decide, which voice parameter you wish to change. These shortcuts can be compared to the scenario, where you move your hand arround the control panel of a washing machine to find that appropriate slider or switch.
-And you can use the "ZDSR+LCTRL+UP ARROW" or "ZDSR+LCTRL+DOWN ARROW" to adjust the parameter you previously decided to change. If you think about it for a while, you will realize that these shortcuts are extremely logical, as all three parameters (Speed, Volume and Pitch" are represented as sliders in the "Voice customization dialog".
+Let's go back to our voice hotkey group for now though. You can use the "ZDSR+LCTRL+LEFTARROW" or "ZDSR+LCTRL+RIGHT ARROW" to decide which voice parameter you wish to change. These shortcuts can be compared to the scenario, where you move your hand arround the control panel of a washing machine to find the appropriate slider or switch.
+And you can use the "ZDSR+LCTRL+UP ARROW" or "ZDSR+LCTRL+DOWN ARROW" to adjust the parameter you previously decided to change. If you think about it for a moment, you will realize that these shortcuts are extremely logical, as all three parameters (Speed, Volume and Pitch" are represented as sliders in the "Voice customization dialog".
 As a practice you can slow down your voice profile a bit. In order to do that, first navigate to the "Speed" slider with the "ZDSR+LCTRL+RIGHT ARROW" key combination. Then, adjust it slightly with the "ZDSR+LCTRL+DOWN" arrow. Then you can put it back to the default value with the "ZDSR+LCTRL+UP ARROW" key combination.
 As you have probably seen, ZDSR reads the value for parameters while navigating between them, as well as when adjusting them.
 There are two more shortcuts you need to be aware of for now. These are "ZDSR+F9" and "ZDSR+SHIFT+F9". They are used to switch either to the next or the previous voice profile you have previously created. This allows you to switch voice profiles rapidly without the need to open the "Voice customization dialog".
@@ -593,37 +593,37 @@ There are more hotkeys relatedt o the voice management aspect of ZDSR, but they 
 | ZDSR+UP ARROW | Increases the currently selected parameter for the currently selected voice profile by 1. |
 | ZDSR+DOWN ARROW | Decreases the currently selected parameter for the currently selected voice profile by 1. |
 | ZDSR+F9 | Switches to the next voice profile. |
-| ZDSR+SHIFT+F9 | Switchest o the previous voice profile. |
+| ZDSR+SHIFT+F9 | Switches to the previous voice profile. |
 : Keyboard shortcuts used in chapter 4
 
 ## Learning Windows: choosing the best software
 
 ### What's it all about?
 
-When you opened this book for the first time, you probably assumed that it will be a dry guide on using Zhengdu Screenreader and nothing more. No! This is not the case for this book. Learning ZDSR itself is like learning how to drive. But what use does driving have without having a good road to drive on? The chapters with the title of "Learning Windows" are here to teach you on how to use your computer with conjunction with all the knowledge you have received in the main part of this book.
-In the introductory chapter of such type, we'll talk more about various software programs you can have on your machine. This chapter will contain no practice whatsoever, just an introduction to various software types.
+When you opened this book for the first time, you probably assumed that it would be a dry guide on using Zhengdu Screen reader and nothing more. No! This is not the case for this book. Learning ZDSR itself is like learning how to drive. But what use does driving have, if you don't have a good road to drive on? The chapters with the title "Learning Windows" are here to teach you how to use your computer in conjunction with all the knowledge you have acquired in the main part of this book.
+In the introductory chapter of this series, we'll talk more about various software programs you can have on your machine. This chapter will contain no practice whatsoever; only an introduction to various software types.
 
 ### What can your computer do?
 
 Before starting to think about what specific programs you'll use in the future, first you need to ask yourself "What can I do with my computer?"
-The answer will probably be satisfactory for you. You can do really a lot with your machine! You can read news, communicate with friends, listen to music, play chess, listen to radio, play games and many many more!
-This chapter will give you some insight on what software is the best and most accessible with ZDSR, but the more experience you have in computers, the more likely you'll search for alternatives. Let's begin then!
+The answer will probably be satisfactory for you. You can really do a lot with your machine! You can read news, communicate with friends, listen to music, play chess, listen to the radio, play games and much, much more!
+This chapter will give you some insight into what software is the best and most accessible with ZDSR, but the more experience you have in computers, the more likely you'll search for alternatives. Let's begin then!
 
 ### Web browser
 
-A web browser is one of the most essential software programs you can have on your computer. It allows you to surf the beautiful Internet world and in consequence access countless information! Because of that your experience must be as smooth and painless as possible.
-If you are using the Windows 10 operating system, then you have a very good browser built-in. Its called Microsoft Edge and it can be accessed straight from your "start menu" or the "Task bar".
-If you are using Windows 7 though, you will need to install a different browser. Its name is Google Chrome. Its very fast and friendly to the user, and it can have countless functions because of its extension system.
-Of course, you can install Google Chrome on Windows 10 too if you so wish, but on this operating system, this step is not necessary to use the computer efficiently.
-The process of downloading and installing Chrome with the help of ZDSR will be covered later down this book.
+A web browser is one of the most essential software programs you can have on your computer. It allows you to surf the beautiful Internet world and consequently access countless information! Because of that, your experience must be as smooth and painless as possible.
+If you are using the Windows 10 operating system, then you have a very good bult-in browser. It's called Microsoft Edge and it can be accessed straight from your "start menu" or the "Task bar".
+If you are using Windows 7 though, you will need to install a different browser. Its name is Google Chrome. It's very fast and user-friendly, and it can have countless functions thanks to its extension system.
+Of course, you can install Google Chrome on Windows 10 too if you so wish, but on this operating system, this step is not necessary in order to use the computer efficiently.
+The process of downloading and installing Chrome with the help of ZDSR will be covered later on in this book.
 
 ### Text editor
 
-You can use your computer to write various kinds of texts, starting with short messagest o friends or family, through school essays to full-fledged books! In fact, we write this book using exclusively a computer and ZDSR!
-Microsoft Windows itself has two text editors built-in.
+You can use your computer to write various kinds of texts, starting with short messages to friends or family, through school essays to full-fledged books! In fact, we write this book using exclusively a computer and ZDSR!
+Microsoft Windows itself has two text bult-in editors.
 The first one is called "Notepad" and is very simple. You can use it to write very short texts for your own use. It is not recommended to write anything more serious using this program. Its simplicity comes with a price of almost non-existent functions and bad-looking documents.
-A slightly better option is another editor built into Windows. Its name is "Word pad". It can be used to write basic texts and documents, but as with in the case of Notepad, the generated documents are in no way pretty.
-If you want to write serious and good-looking documents, then we recommend grabbing the Microsoft Office Home suite. Unfortunately this software is paid, but very often you can get it for free from various institutions, either educational or vocational. Microsoft Office will be covered in depth later down this book.
+A slightly better option is another editor built into Windows. Its name is "Wordpad". It can be used to write basic texts and documents, but as in the case of Notepad, the generated documents are in no way pretty.
+If you want to write serious and good-looking documents, then we recommend grabbing the Microsoft Office Home suite. Unfortunately this software is paid, but very often you can get it for free from various institutions, either educational or vocational. Microsoft Office will be covered in depth later on in this book.
 
 ### Mail client
 
