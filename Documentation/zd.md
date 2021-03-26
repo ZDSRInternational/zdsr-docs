@@ -627,3 +627,12 @@ If you want to write serious and good-looking documents, then we recommend grabb
 
 ### Mail client
 
+Even though the Electronic mail (E-Mail) is getting less and less popular with every day, having a good mail client is essential for working with the computer efficiently. There are three options we can recommend. The first one is "Becky! Internet Mail". This program from Japan used to be paid, but now it can be obtained for free by contacting the developer. It is worth noting that becky! might be downting for some users and so it is not recommended for complete computer beginners.
+The second option is "The Bat!". This software can be purchased for 40 dollars at the time of writing this book. It is much easier and more friendly to the user, but it offers less options aimed at more advanced mail users.
+Last but not least there is Microsoft Outlook. This program is very advanced, its a mail client, contact software and the planning tool. It requires the valid Microsoft Office Professional license, and so it might not be an option for some.
+of course, all these E-Mail clients will be covered later down this book, Outlook in the chapter dedicated to the Microsoft Office Suite, and The Bat! and becky! in the second part of this book "ZDSR and Windows: the combo you can't beat".
+
+### File management software
+
+No matter whether you will be writing, programming, doing sound design or just using your computer as a home entertainment center, a good file manager is an essential part of your computer life. Windows has of course file manager included (File Explorer is its name), but it is neither good, nor fast. The most accessible file manager is Total Commander. It can be bought for 40 dollars at the time of writing this book. The developers are well-aware of the accessibility and they're working very hard to fix it.
+Both File Explorer and Total Commander are going to be covered in this book.
