@@ -24,7 +24,7 @@ Let's strive for perfection together!
 
 Written by Nuno and Ollie.
 
-Copyright (®) 2021, no rights reserved.
+Copyright (c) 2021, no rights reserved.
 
 In case of any problem, suggestion, feature request and so on please feel free to write an E-Mail to [this E-Mail address.](mailto:nuno@zd.hk)
 
@@ -62,7 +62,7 @@ increasing the reaction speed by about 300% comparing to its competition. This
 makes ZDSR a perfect choice for people who need to access the information as
 fast as possible.
 
-- Ease of use: ZDSR is built on top of an extremely logical and straightforward
+- Ease-of-use: ZDSR is built on top of an extremely logical and straightforward
 foundation, allowing people of all levels of computer knowledge to master the
 product quickly and efficiently, making it possible to install it and start
 working immediately.
@@ -149,7 +149,7 @@ buying the software
 | Support for the new capture engine | No | Yes | Yes | Yes | Yes |
 | Support for "Screen Navigation" | No | No | No | No | Yes |
 | Support for "Regional Navigation | No | No | No | No | Yes |
-| Chromium engine support | No | Yes | Yes | Yes | Yes |
+| Chromium engine support | Yes | Yes | Yes | Yes | Yes |
 | Notebook keyboard scheme support | No | Yes | Yes | Yes | Yes |
 | Support for the Optical Character Recognition | No | No | Yes | Yes | Yes |
 | Support for  advanced soundcard management | No | No | Yes | Yes | Yes |
@@ -188,7 +188,7 @@ table contains all prices for all editions of the software.
 | Edition | Price |
 | ----- | ----- |
 | Public Welfare version | Free |
-| Youth | \$? |
+| Youth | \$10 |
 | Youth Plus | \$20 |
 | Youth Pro | \$26 |
 | Commercial | \$232 |
@@ -206,9 +206,9 @@ contact our support service with all your questions or concerns.
 
 In order to run the Zhengdu screen reader efficiently, your computer must meet some basic requirements. They are outlined below
 
-- Operating system: Windows 7 service pack 1 or never
-- RAM: 2048 MB
-- Disk space: 300 MB
+- Operating system: Windows 7 service pack 1 or newer
+- RAM: 2048 MB or higher
+- Disk space: 300 MB or higher
 - Internet connection (for online editions)
 - A soundcard
 
